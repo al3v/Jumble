@@ -7,9 +7,9 @@ the provided letters, as well as true anagrams that use every letter.
 
 Example:
 $ python3 jumble_solver.py word_list.txt dog
-god
-go
-do
+$ god
+$ go
+$ do
 
 
 Reference
