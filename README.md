@@ -6,12 +6,13 @@ return matching “sub-anagrams”. Make sure your program can find words that u
 the provided letters, as well as true anagrams that use every letter.
 
 Example:
-$ python3 jumble_solver.py word_list.txt dog
-$ god
-$ go
-$ do
+
+$ python3 jumble_solver.py word_list.txt dog <br />
+ god <br />
+ go <br />
+ do <br />
 
 
-Reference
-● About jumble: https://en.wikipedia.org/wiki/Jumble
-● Example word list: http://www.mieliestronk.com/corncob_lowercase.txt
+Reference <br />
+● About jumble: https://en.wikipedia.org/wiki/Jumble <br />
+● Example word list: http://www.mieliestronk.com/corncob_lowercase.txt <br />
